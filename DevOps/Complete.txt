@@ -1,2 +1,2 @@
 Basics of SDLC
-Operating System (Linux🐧)
+Operating System (Linux🐧) - Installation Done
