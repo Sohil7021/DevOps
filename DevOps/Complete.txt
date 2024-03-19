@@ -1,2 +1,3 @@
 Basics of SDLC
 Operating System (Linux🐧) - Installation Done
+Bash-Scripting
